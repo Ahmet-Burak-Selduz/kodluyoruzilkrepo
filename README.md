@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Gorsel](https://www.hizliresim.com/ek4w16b)
+[Gorsel](https://www.hizliresim.com/ek4w16b)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 ``` 
@@ -21,6 +21,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![Gorsel2](https://www.hizliresim.com/mtmde62)
+[Gorsel2](https://www.hizliresim.com/mtmde62)
 
 [Patika dev linki](https://www.patika.dev/tr) 
